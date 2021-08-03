@@ -6,7 +6,7 @@
 
 <h4>Tool by <strong>The Exe Virus</strong></h4>
 
-![Screenshot_20201107-163215~2_compress68](https://user-images.githubusercontent.com/69100349/98444803-c3659900-2139-11eb-892f-86a352437f56.jpg)
+![Screenshot_20201107-163215~2_compress68](https://avatars.githubusercontent.com/u/87240647?s=400&u=c989209cfa934830a69dd2217daa65a561a64cd1&v=4)
 
 *For more details see my youtube channel 
 
@@ -85,7 +85,7 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 
 *script by THE DEVIL TIGERS adn TEAM BYTU
 
-©[The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+©[The Devil Tigers fox Exe](https://www.youtube.com/c/thmalayalam)
 
 <h3>FOR EDUCATIONAL PURPOSE ONLY</h3>
 
