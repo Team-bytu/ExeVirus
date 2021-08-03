@@ -85,8 +85,6 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 
 *script by THE DEVIL TIGERS adn TEAM BYTU
 
-©[The Devil Tigers fox Exe](https://www.youtube.com/c/thmalayalam)
-
 <h3>FOR EDUCATIONAL PURPOSE ONLY</h3>
 
 
