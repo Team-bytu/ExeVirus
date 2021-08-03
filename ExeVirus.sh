@@ -3,12 +3,12 @@ clear
 echo " "
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m Welcome to [\e[1m\e[32mTIGER VIRUS\e[21m\e[31m V 2.3\e[33m]"
+echo -e "\e[33m Welcome to [\e[1m\e[32mEXE VIRUS\e[21m\e[31m V 2.3\e[33m]"
 echo " "
 sleep 1
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m•••Script by \e[36mThe Devil Tigers\e[33m•••"
+echo -e "\e[33m•••Script by \e[36mTEAM BYTU\e[33m•••"
 echo " "
 echo -e "\e[1m\e[33m••••••••••••••••••••••••••••••••••••••••••••\e[21m"
 echo " "
@@ -73,7 +73,7 @@ else
 
 echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
     echo " " 
-                    echo -e "\e[36m >>> STARTING TIGER VIRUS..."
+                    echo -e "\e[36m >>> STARTING EXE VIRUS..."
                     echo " "
                     sleep 2
                     
@@ -115,7 +115,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Exe"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -137,7 +137,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Exe"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -149,7 +149,7 @@ echo " "
 sleep 1
 echo -e "\e[91m[1]\e[32m Mãlåyálām Virus BOMB Message"
 echo -e "\e[91m[2]\e[32m _̷̩̇̕_̴̬̚ Powerful Very Short BOMB Message"
-echo -e "\e[91m[3]\e[32m Tïgêr håçkër BOMB Message"
+echo -e "\e[91m[3]\e[32m Exë håçkër BOMB Message"
 echo -e "\e[91m[4]\e[32m į❤️ų Virus BOMB Message"
 echo -e "\e[91m[5]\e[32m ĻŐVę Virus BOMB Message"
 echo -e "\e[91m[6]\e[32m T̷͉̀ī̶̹g̷͎͐e̷̗̐ṛ̵̾ Powerful Shot BOMB Message"
@@ -414,7 +414,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Exe"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -426,7 +426,7 @@ echo " "
 sleep 1
 echo -e "\e[91m[11]\e[33m Mãlåyálām Virus BOMB Message"
 echo -e "\e[91m[12]\e[33m _̷̩̇̕_̴̬̚ Powerful Very Short BOMB Message"
-echo -e "\e[91m[13]\e[33m Tïgêr håçkër BOMB Message"
+echo -e "\e[91m[13]\e[33m Exë håçkër BOMB Message"
 echo -e "\e[91m[14]\e[33m į❤️ų Virus BOMB Message"
 echo -e "\e[91m[15]\e[33m ĻŐVę Virus BOMB Message"
 echo -e "\e[91m[16]\e[33m T̷͉̀ī̶̹g̷͎͐e̷̗̐ṛ̵̾ Powerful Shot BOMB Message"
@@ -694,7 +694,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "Exe"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -706,7 +706,7 @@ echo " "
 sleep 1
 echo -e "\e[91m[21]\e[35m Mãlåyálām Virus BOMB Message"
 echo -e "\e[91m[22]\e[35m _̷̩̇̕_̴̬̚ Powerful Very Short BOMB Message"
-echo -e "\e[91m[23]\e[35m Tïgêr håçkër BOMB Message"
+echo -e "\e[91m[23]\e[35m Exë håçkër BOMB Message"
 echo -e "\e[91m[24]\e[35m į❤️ų Virus BOMB Message"
 echo -e "\e[91m[25]\e[35m ĻŐVę Virus BOMB Message"
 echo -e "\e[91m[26]\e[35m T̷͉̀ī̶̹g̷͎͐e̷̗̐ṛ̵̾ Powerful Shot BOMB Message"
@@ -1038,9 +1038,9 @@ echo " "
 echo -e "\e[34m "
 cd •
 
-cp TigerPower. ..
+cp ExePower. ..
 cd ..
-mv TigerPower. TigerPower.txt
+mv ExePower. ExePower.txt
 
 echo "••••••••••••••••••100%"|pv -qL 10
 
@@ -1048,7 +1048,7 @@ echo " "
 echo -e "\e[32mPOWER VIRUS BOMB Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp TigerPower.txt /sdcard "
+echo -e "\e[96mNow Type :- cp ExePower.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mOr Type :- cat TigerPower.txt"
@@ -1097,7 +1097,7 @@ echo -e "\e[39m"
 fi
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[103m     •••FOR MORE DETAILS•••. "
-echo -e "\e[103mSEARCH *The Devil Tigers*"
+echo -e "\e[103mSEARCH *Team bytu adn Axel-bytu*"
 echo -e "\e[103m       •••ON YOUTUBE•••      \e[49m"
 echo -e " \e[39m"
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
